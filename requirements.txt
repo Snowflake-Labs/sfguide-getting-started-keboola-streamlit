@@ -1,0 +1,6 @@
+streamlit==1.13.0
+streamlit-highcharts==0.1.5
+st-connection @ git+https://github.com/aalteirac/st_connection.git
+snowflake-connector-python==2.7.12
+streamlit-keboola-api==0.1.8
+git+https://github.com/keboola/sapi-python-client.git
